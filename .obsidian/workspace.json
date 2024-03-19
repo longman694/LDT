@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "11d10063990009d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3d33f70a5045676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e9d721234fda578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Table of Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b0e1f638c53b64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c89969934ff25fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e06d35400df78ba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ea9c51e36db4ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "546c1420423fb1e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e59cb534010460e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1da89b96df15b678",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f20a7e52649170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "840731a0720f63c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3d1234a7313575b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37018af3276cdb0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "054f94084db6fb0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0b0e1f638c53b64a",
+  "lastOpenFiles": [
+    "Table of Contents.md",
+    "readme.md",
+    "layouts.md",
+    "บทที่ 1/1. ลำโพงตู้ปิดสำหรับระบบความถี่ต่ำ.md",
+    "บทที่ 14",
+    "บทที่ 13",
+    "บทที่ 12",
+    "บทที่ 11",
+    "บทที่ 10",
+    "บทที่ 9",
+    "บทที่ 8",
+    "บทที่ 7",
+    "บทที่ 6",
+    "บทที่ 5",
+    "LDC 8/บทที่ 1/1. ลำโพงตู้ปิดสำหรับระบบความถี่ต่ำ.md",
+    "LDC 8/Table of Contents.md",
+    "LDC 8/layouts.md",
+    "Welcome.md"
+  ]
+}
