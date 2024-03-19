@@ -1,5 +1,7 @@
 [
   "obsidian-style-settings",
   "obsidian-minimal-settings",
-  "custom-font-loader"
+  "custom-font-loader",
+  "obsidian-git",
+  "image-captions"
 ]

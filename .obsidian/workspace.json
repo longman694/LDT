@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "บทที่ 1/1. ลำโพงตู้ปิดสำหรับระบบความถี่ต่ำ.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "89f35bdfa5e021cd",
+            "id": "ca4487d05bebef8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "บทที่ 1/1. ลำโพงตู้ปิดสำหรับระบบความถี่ต่ำ.md",
-                "mode": "source",
+                "file": "ก. อภิธานศัพท์.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,14 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89f35bdfa5e021cd",
+  "active": "0b0e1f638c53b64a",
   "lastOpenFiles": [
-    "README.md",
-    "ก. อภิธานศัพท์.md",
+    "บทที่ 8/8. วิธีทดสอบลำโพง.md",
+    "บทที่ 1/1. ลำโพงตู้ปิดสำหรับระบบความถี่ต่ำ.md",
+    "INDEX.md",
     "LICENSE.md",
+    "ก. อภิธานศัพท์.md",
+    "README.md",
+    "บทที่ 1/figures/1.03.png",
+    "บทที่ 1/figures/1.07.3.png",
+    "บทที่ 1/figures/1.07.2.png",
+    "บทที่ 1/figures/1.07.1.png",
+    "บทที่ 1/figures/1.07.png",
+    "บทที่ 1/figures/1.06.png",
+    "บทที่ 1/figures/1.05.png",
+    "บทที่ 1/figures/1.04.png",
+    "บทที่ 1/figures/1.02.png",
+    "บทที่ 1/figures/1.01.1.png",
     "layouts.md",
     "Table of Contents.md",
-    "บทที่ 1/1. ลำโพงตู้ปิดสำหรับระบบความถี่ต่ำ.md",
     "บทที่ 14",
     "บทที่ 13",
     "บทที่ 12",

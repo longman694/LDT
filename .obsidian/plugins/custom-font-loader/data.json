@@ -2,5 +2,5 @@
   "font": "all",
   "force_mode": false,
   "custom_css_mode": true,
-  "custom_css": ".cm-header, .inline-title, .callout-title-inner {\n  --font-text: Kanit-Regular;\n  font-family: Kanit-Regular;\n}\n.view-content{\n  --font-text: Pridi-Light;\n  letter-spacing: 1px;\n}\n.cm-strong{\n--font-text: Pridi-Medium;\n}\n.callout-icon {\nfont-family: var(--font-default);\n}\n.cm-line {\nmargin-bottom: 1rem;\n}"
+  "custom_css": ".cm-header, .inline-title, .callout-title-inner {\n  --font-text: Kanit-Regular;\n  font-family: Kanit-Regular;\n}\n.view-content{\n  --font-text: Pridi-Light;\n  letter-spacing: 1px;\n}\n.cm-strong{\n--font-text: Pridi-Medium;\n}\n.callout-icon {\nfont-family: var(--font-default);\n}\n.cm-line {\nmargin-bottom: 1rem;\n}\n\n.image-captions-figure{\nbackground: none !important;\n}\n.image-captions-caption{\nbackground: none !important;\n}"
 }
