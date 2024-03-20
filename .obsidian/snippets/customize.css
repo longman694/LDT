@@ -38,6 +38,7 @@
 .view-content {
   font-family: "Noto Serif Thai", serif;
   font-weight: 300;
+  --bold-weight: 500;
 }
 
 .inline-title {

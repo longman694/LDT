@@ -1,3 +1,9 @@
+---
+title: ก. อภิธานศัพท์
+date: 2024-03-20
+tags:
+---
+
 **acoustic compliance** ความหยุ่นทางเสียง
 
 **air suspension**

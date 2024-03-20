@@ -1,3 +1,8 @@
+---
+title: อ้างอิง
+date: 2024-03-20
+---
+
 1. D. B. Weems, “Closed-Box Speaker System Design,” _Popular Electronics_, June-July 1973.
 2. E.M. Villchur, “Revolutionary Loudspeaker and Enclosure,” _Audio_, October 1954.
 3. R. Small, “Direct Radiator Loudspeaker, System Analysis,” _JAES_, June 1972.

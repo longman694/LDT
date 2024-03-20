@@ -1,3 +1,7 @@
+---
+date: 2024-03-20
+---
+
 ## ตาราง 1.03 $Q_{tc}=0.5$
 
 ดูตารางได้จาก [spreadsheet](https://docs.google.com/spreadsheets/d/1uyFZ65u-_ZHKBBpdOmdzOcE8QC4py9HHWR118YAffKY/edit?usp=sharing#gid=80317694)
