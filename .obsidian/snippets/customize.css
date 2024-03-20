@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;0,500;1,400;1,500&family=Noto+Serif+Thai:wght@100..900&display=swap');
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.noto-serif thai-default-text {
+  font-family: "Noto Serif Thai", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.kanit-regular {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kanit-medium {
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.kanit-regular-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.kanit-medium-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.view-content {
+  font-family: "Noto Serif Thai", serif;
+  font-weight: 300;
+}
+
+.inline-title {
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+}
+
+.cm-header, .callout-title-inner {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+}
+
+.callout[data-callout="cite"] {
+  background: none;
+}
+
+.callout[data-callout="cite"] > .callout-content {
+  margin: auto;
+  text-align: center;
+}
+
+.callout[data-callout="cite"] > .callout-title {
+  display: none;
+}
