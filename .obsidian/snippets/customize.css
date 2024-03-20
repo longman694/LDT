@@ -63,3 +63,29 @@
 .callout[data-callout="cite"] > .callout-title {
   display: none;
 }
+
+.navigation {
+  border-top: 1px solid #aaa;
+  padding-top: 8px;
+  display: block;
+}
+
+.navigation > .previous {
+  border: none;
+  float: left;
+  padding: 5px 10px;
+}
+
+.navigation > .previous::before {
+  content: "< ";
+}
+
+.navigation > .next {
+  border: none;
+  float: right;
+  padding: 5px 10px;
+}
+
+.navigation > .next::after {
+  content: " >";
+}
