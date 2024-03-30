@@ -58,6 +58,8 @@ tags:
 
 **resonance frequency** ความถี่สั่นพ้อง
 
+**sound pressure level (SPL)** ระดับความดันเสียง
+
 **speaker, loudspeaker** ลำโพง
 
 **speaker driver** ดอกลำโพง
