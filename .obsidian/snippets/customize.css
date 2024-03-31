@@ -64,26 +64,33 @@
   display: none;
 }
 
-.navigation {
+div.navigation {
   border-top: 1px solid #aaa;
   padding-top: 8px;
-  display: block;
+  display: flex;
 }
 
 .navigation > .previous {
   border: none;
-  float: left;
   padding: 5px 10px;
+  flex-grow: 1;
 }
 
 .navigation > .previous::before {
   content: "< ";
 }
 
-.navigation > .next {
-  border: none;
-  float: right;
+.navigation > .up {
+  text-align: center;
   padding: 5px 10px;
+  flex-grow: 1;
+}
+
+.navigation > .next {
+  text-align: right;
+  border: none;
+  padding: 5px 10px;
+  flex-grow: 1;
 }
 
 .navigation > .next::after {
